@@ -17,10 +17,10 @@
 ## 📫 Connect with me:
 <br />
 <p align="left">
-<a href="https://dev.to/pcassima" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="pcassima" height="30" /></a>
-<a href="https://linkedin.com/in/pieter-jan-cassiman" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pieter-jan-cassiman" height="30" /></a>
-<a href="https://instagram.com/pieterjancassiman" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pieterjancassiman" height="30" /></a>
-<a href="/https://www.transistories.org/feed.rss" target="blank"><img align="center" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" height="30" /></a>
+<a href="https://dev.to/pcassima" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="pcassima" height="30" /></a>
+<a href="https://linkedin.com/in/pieter-jan-cassiman" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pieter-jan-cassiman" height="30" /></a>
+<a href="https://instagram.com/pieterjancassiman" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pieterjancassiman" height="30" /></a>
+<a href="https://www.transistories.org/feed.rss" target="_blank"><img align="center" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" height="30" /></a>
 </p>
 
 ## ⚡ Languages and Tools:
